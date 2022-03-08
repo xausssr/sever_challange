@@ -4,5 +4,5 @@
 
 # Установка
 0. При желании сделать новое `venv`.
-1. `pip install requirements.txt`.
+1. `pip install requirements.txt` [к сожалению, о venv вспомнили в последний момент, так что может приехать много всего - извините ☹].
 2. В блоке import первой ячейки заменить путь до `snippets`, например `sys.path.append('./snippets/')`
