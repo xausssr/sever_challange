@@ -1,5 +1,5 @@
 ## Server_Challange
-## 4 Task:  Анализ Контрагентов
+## 4 Task: 
 
 [4_task.ipynb](4_task.ipynb) - Решение по 4 задаче (Анализ контрагентов) для хакатона McKinsey&amp;Company X Северсталь
 
