@@ -1,0 +1,1296 @@
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03224772114
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01356045944
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001481551109
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0002184642616
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01627690913
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01574479927
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0228986336
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001059703234
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198466798
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001581903589
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.03308838505
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.01361087756
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.01357056192
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.476873317e-05
+bestIteration = 98
+Training on fold [1/3]
+bestTest = 1.948876938e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001661254903
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 7.888660003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0001480284931
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.000219897467
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.01718267479
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.0157406384
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.02288761516
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 1.572369003e-05
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 2.032552851e-05
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 8.145905505e-05
+bestIteration = 99
+Training on fold [0/3]
+bestTest = 0.0001068162379
+bestIteration = 99
+Training on fold [1/3]
+bestTest = 0.000198695072
+bestIteration = 99
+Training on fold [2/3]
+bestTest = 0.0001579856153
+bestIteration = 99
